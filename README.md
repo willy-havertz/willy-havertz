@@ -9,7 +9,7 @@
   - 💬 Joke: Why did the the computer break up💔 with the internet?  Because there was no connection😂.
   - 💬 Joke 2: Why was the computer so cold🥶? It left its windows open😂.
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: The first computer virus,"creeper",was created as an experiment in the earlt 1970s --not to harm, but just to display the message, "I'm the creeper, catch me if you can"
+  - ⚡ Fun fact: The first computer virus,"creeper",was created as an experiment in the early 1970s --not to harm, but just to display the message, "I'm the creeper, catch me if you can"
   
   #### 📫 How to reach me:
   
