@@ -5,10 +5,11 @@
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I’m a student at the <a href="https://embuni.ac.ke/">University of Embu</a>.
-  - 🌱 I’m currently learning Computer Science, Web Development, and Cyber Security.
-  - 💬 Ask me about Tintin comics
+  - 🌱 I’m currently learning Software Engineering at PLP Academy and Cyber Security at TCM Academy.
+  - 💬 Joke: Why did the the computer break up💔 with the internet?  Because there was no connection😂.
+  - 💬 Joke 2: Why was the computer so cold🥶? It left its windows open😂.
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ Fun fact: The first computer virus,"creeper",was created as an experiment in the earlt 1970s --not to harm, but just to display the message, "I'm the creeper, catch me if you can"
   
   #### 📫 How to reach me:
   
