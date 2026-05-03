@@ -1,35 +1,52 @@
-  ### Bonjour!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=willy-havertz&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m a student at the <a href="https://embuni.ac.ke/">University of Embu</a>.
-  - 🌱 I’m currently learning Software Engineering at PLP Academy and Cyber Security at TCM Academy.
-  - 💬 Joke: Why did the the computer break up💔 with the internet?  Because there was no connection😂.
-  - 💬 Joke 2: Why was the computer so cold🥶? It left its windows open😂.
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: The first computer virus,"creeper",was created as an experiment in the early 1970s --not to harm, but just to display the message, "I'm the creeper, catch me if you can"
-  
-  #### 📫 How to reach me:
-  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shon_havertz)   &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/wiltord-ichingwa)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/Willy.havertz)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/willy_havertz/)
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  [![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) 
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willy-havertz)
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  
-  [![Stats](https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' /> <br/>
-✍*Random Dev Quote*
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=willy-havertz&label=Profile%20Visits&color=blue&style=for-the-badge" />
+
+## Hi, I'm Wiltord 👋
+
+Aspiring Software Engineer passionate about building impactful software and exploring cybersecurity.
+Currently studying Software Engineering at **PLP Academy** and Cybersecurity at **TCM Academy** | 
+Final year student at the **University of Embu** | Open to entry-level opportunities.
+
+---
+
+### 🔭 What I'm up to
+
+- 🎓 Studying Software Engineering @ [PLP Academy](https://plpacademy.powerlearnproject.org/) & Cybersecurity @ TCM Academy
+- 🌱 Currently deepening my skills in Python, JavaScript, and web development
+- 🛡️ Interested in the intersection of software engineering and cybersecurity
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: The first computer virus, *"Creeper"*, was created in the early 1970s not to cause harm, but simply to display the message *"I'm the Creeper, catch me if you can."*
+
+---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiltord-ichingwa)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@shon_havertz)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Willy.havertz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willy_havertz/)
+
+---
+
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+[![Wiltord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical)](https://github.com/willy-havertz)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willy-havertz&layout=compact&theme=radical)](https://github.com/willy-havertz)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=willy-havertz)
+
+---
+
+✍️ *Random Dev Quote*
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
