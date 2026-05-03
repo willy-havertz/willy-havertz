@@ -42,8 +42,6 @@ Currently expanding into backend development and security tooling — open to en
 | [Web App Project](https://cukmall.vercel.app) | Full-stack web application built for campus marketplace | JavaScript · Node.js · MongoDB | [Demo](https://cukmall.vercel.app) |
 | [CTF Writeups](https://wiltordichingwa.vercel.app/writeups) | Documented solutions and methodology from Capture The Flag challenges | Kali Linux · Burp Suite · OSINT | [Demo](https://wiltordichingwa.vercel.app/writeups) |
 
-> 💡 *Replace the links and descriptions above with your actual repos and project details*
-
 ---
 
 ### 🛠️ Tech Stack
