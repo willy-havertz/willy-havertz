@@ -37,10 +37,10 @@ Currently expanding into backend development and security tooling — open to en
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [Portfolio Website](https://wiltordichingwa.vercel.app) | Personal portfolio showcasing projects and skills | Nmap · Metasploit · Wireshark | [Demo](https://port-cyber-experiments.vercel.app/?tab=network) |
-| [Python Security Tool](https://port-cyber-experiments.vercel.app/?tab=security-tools) | Automated network scanning and vulnerability reporting script | Python · Nmap · Linux | — |
-| [Web App Project](https://cukmall.vercel.app) | Full-stack web application built for campus marketplace | JavaScript · Node.js · MongoDB | — |
-| [CTF Writeups](https://wiltordichingwa.vercel.app/writeups) | Documented solutions and methodology from Capture The Flag challenges | Kali Linux · Burp Suite · OSINT | — |
+| [Portfolio Website](https://wiltordichingwa.vercel.app) | Personal portfolio showcasing projects and skills | Nmap · Metasploit · Wireshark | [Demo](https://port-cyber-experiments.vercel.app) |
+| [Python Security Tool](https://port-cyber-experiments.vercel.app/?tab=security-tools) | Automated network scanning and vulnerability reporting script | Python · Nmap · Linux | [Demo](https://port-cyber-experiments.vercel.app/?tab=security-tools) |
+| [Web App Project](https://cukmall.vercel.app) | Full-stack web application built for campus marketplace | JavaScript · Node.js · MongoDB | [Demo](https://cukmall.vercel.app) |
+| [CTF Writeups](https://wiltordichingwa.vercel.app/writeups) | Documented solutions and methodology from Capture The Flag challenges | Kali Linux · Burp Suite · OSINT | [Demo](https://wiltordichingwa.vercel.app/writeups) |
 
 > 💡 *Replace the links and descriptions above with your actual repos and project details*
 
