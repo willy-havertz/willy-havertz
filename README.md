@@ -21,7 +21,7 @@ Currently expanding into backend development and security tooling — open to en
 | Certification | Issuer | Status |
 |---|---|---|
 | 🎓 Software Engineering | Power Learn Project (PLP) Academy | ✅ Certified |
-| 🛡️ Ethical Hacker | Cyber Shujaa | ✅ Certified |
+| 🛡️ Ethical Hacker | Cyber Shujaa & Cisco Networking Academy | ✅ Certified |
 
 ---
 
@@ -30,20 +30,37 @@ Currently expanding into backend development and security tooling — open to en
 **Development**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Security**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Security**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=aircrackng&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logo=johntheripper0&logoColor=white)
+![Sqlmap](https://img.shields.io/badge/Sqlmap-CC0000?style=for-the-badge&logo=sqlmap&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-4A4A4A?style=for-the-badge&logo=hashnode&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-003366?style=for-the-badge&logo=thc&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-008000?style=for-the-badge&logo=nikto&logoColor=white)
 
 ---
 
@@ -60,16 +77,10 @@ Currently expanding into backend development and security tooling — open to en
 
 ### 📊 GitHub Stats
 
-<div align="center">
+[![Wiltord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical)](https://github.com/willy-havertz)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willy-havertz&layout=compact&theme=radical)](https://github.com/willy-havertz)
 
-[![Wiltord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/willy-havertz)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willy-havertz&layout=compact&theme=radical&hide_border=true)](https://github.com/willy-havertz)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=radical&no-frame=true&row=1&margin-w=16&no-bg=true)](https://github-profile-trophy.vercel.app/?username=willy-havertz)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=willy-havertz&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=willy-havertz)
 
 ---
 
