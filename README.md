@@ -21,7 +21,28 @@ Currently expanding into backend development and security tooling — open to en
 | Certification | Issuer | Status |
 |---|---|---|
 | 🎓 Software Engineering | Power Learn Project (PLP) Academy | ✅ Certified |
-| 🛡️ Ethical Hacker | Cyber Shujaa & Cisco Networking Academy | ✅ Certified |
+| 🛡️ Ethical Hacker | Cyber Shujaa & Cisco Networking Academy| ✅ Certified |
+
+---
+
+### 🌱 Currently
+
+- 🔨 Building: Expanding my project portfolio with full-stack and security projects
+- 📚 Learning: React advanced patterns · Node.js backend · Network forensics
+- 🎯 Goal: Land a Software Engineering or SOC Analyst role by Q3 2026
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [Portfolio Website](https://wiltordichingwa.vercel.app) | Personal portfolio showcasing projects and skills | Nmap · Metasploit · Wireshark | [Demo](https://port-cyber-experiments.vercel.app/?tab=network) |
+| [Python Security Tool](https://port-cyber-experiments.vercel.app/?tab=security-tools) | Automated network scanning and vulnerability reporting script | Python · Nmap · Linux | — |
+| [Web App Project](https://cukmall.vercel.app) | Full-stack web application built for campus marketplace | JavaScript · Node.js · MongoDB | — |
+| [CTF Writeups](https://wiltordichingwa.vercel.app/writeups) | Documented solutions and methodology from Capture The Flag challenges | Kali Linux · Burp Suite · OSINT | — |
+
+> 💡 *Replace the links and descriptions above with your actual repos and project details*
 
 ---
 
@@ -85,9 +106,19 @@ Currently expanding into backend development and security tooling — open to en
 
 <br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=willy-havertz&theme=radical&hide_border=true" />
+
+<br/><br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=willy-havertz)
 
 </div>
+
+---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=willy-havertz&theme=react-dark&hide_border=true&area=true)](https://github.com/willy-havertz)
 
 ---
 
