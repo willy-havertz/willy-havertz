@@ -77,10 +77,17 @@ Currently expanding into backend development and security tooling — open to en
 
 ### 📊 GitHub Stats
 
-[![Wiltord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical)](https://github.com/willy-havertz)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willy-havertz&layout=compact&theme=radical)](https://github.com/willy-havertz)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=willy-havertz&show_icons=true&theme=radical&hide_border=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy-havertz&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+<br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=willy-havertz&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=willy-havertz)
+
+</div>
 
 ---
 
